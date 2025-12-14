@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Основные цвета -->
+    <color name="primary">#FF6C63</color> <!-- Коралловый -->
+    <color name="primary_dark">#FF5252</color>
+    <color name="accent">#4ECDC4</color> <!-- Бирюзовый -->
+    <color name="background">#FAFAFA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="divider">#E0E0E0</color>
+
+    <!-- Дополнительные цвета -->
+    <color name="card_1">#FFD8E6</color> <!-- Розовый -->
+    <color name="card_2">#D8F0FF</color> <!-- Голубой -->
+    <color name="card_3">#E6FFD8</color> <!-- Зеленый -->
+    <color name="card_4">#FFF8D8</color> <!-- Желтый -->
+    <color name="card_5">#E8D8FF</color> <!-- Фиолетовый -->
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray_light">#F5F5F5</color>
+</resources>
