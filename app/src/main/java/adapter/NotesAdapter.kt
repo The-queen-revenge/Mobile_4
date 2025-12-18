@@ -1,4 +1,4 @@
-package com.example.zaebalsay.adapter
+package com.example.Dev.adapter
 
 import android.graphics.Color
 import android.view.LayoutInflater
@@ -7,8 +7,8 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.cardview.widget.CardView
 import androidx.recyclerview.widget.RecyclerView
-import com.example.zaebalsay.R
-import com.example.zaebalsay.data.Note
+import com.example.Dev.R
+import com.example.Dev.data.Note
 import java.text.SimpleDateFormat
 import java.util.*
 

@@ -1,4 +1,4 @@
-package com.example.zaebalsay.ui
+package com.example.Dev.ui
 
 import android.content.Intent
 import android.os.Bundle
@@ -8,10 +8,10 @@ import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.example.zaebalsay.R
-import com.example.zaebalsay.adapter.NotesAdapter
-import com.example.zaebalsay.data.Note
-import com.example.zaebalsay.data.NotesRepository
+import com.example.Dev.R
+import com.example.Dev.adapter.NotesAdapter
+import com.example.Dev.data.Note
+import com.example.Dev.data.NotesRepository
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 
 class MainActivity : AppCompatActivity() {

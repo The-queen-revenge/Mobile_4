@@ -1,14 +1,13 @@
-package com.example.zaebalsay.ui
+package com.example.Dev.ui
 
 import android.os.Bundle
 import android.widget.ImageView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.example.zaebalsay.R
-import com.example.zaebalsay.data.Note
-import com.example.zaebalsay.data.NotesRepository
+import com.example.Dev.R
+import com.example.Dev.data.Note
+import com.example.Dev.data.NotesRepository
 import com.google.android.material.button.MaterialButton
-import com.google.android.material.imageview.ShapeableImageView
 import com.google.android.material.textfield.TextInputEditText
 import com.google.android.material.textview.MaterialTextView
 
