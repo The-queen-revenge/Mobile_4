@@ -1,4 +1,4 @@
-package com.example.zaebalsay.data
+package com.example.Dev.data
 
 class NotesRepository {
     private val notes = mutableListOf<Note>()

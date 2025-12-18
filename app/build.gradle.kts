@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.zaebalsay"  // Изменил здесь
+    namespace = "com.example.Dev"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.zaebalsay"  // И здесь
+        applicationId = "com.example.Dev"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

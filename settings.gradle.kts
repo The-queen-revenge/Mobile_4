@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Zaebalsay"  // Имя вашего проекта
+rootProject.name = "Dev"  // Имя вашего проекта
 include(":app")
